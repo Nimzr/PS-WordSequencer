@@ -1,5 +1,5 @@
 # what it do
-This is part of a code challenge, at the moment this powershell functions accepts a text file and turns the content into a series of 3-word-sequences, and then it ranks them based on occurance. You have the option to decide how many results are returned to you. 
+This is part of a code challenge, at the moment this powershell function accepts a text file and turns the content into a series of 3-word-sequences, and then it ranks them based on occurrence. You have the option to decide how many results are returned to you. 
 Bonus you get to see the whole file fly by in the terminal 1 word at a time.
 ![hackerman](./Assets/hackerman.jpg?raw=true "hackerman") 
 
@@ -8,7 +8,7 @@ Bonus you get to see the whole file fly by in the terminal 1 word at a time.
 * Add tests (not so easy)
 
 
-## Requirements for it work:
+## Requirements for it to work:
 * This is a powershell function written in powershell 7. I believe it should work in other platforms but I wrote it and tested it on windows. GLHF
 * Once you have the repo on your local machine you will need to open up a powershell termianl (Termianl, VSCode, or whatever) and then import the function, many ways to do that but you can try:
   * CD to the repo folder
