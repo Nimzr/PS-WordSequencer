@@ -31,7 +31,7 @@ Enter Path to File for import: </code>
 
 * Next you will be prompted for how many results you'd like to be returned to you (top x sequences) so enter a number here.
 
-```Number of top sequences to return, For example: 20:```
+```Number of top sequences to return, For example: 20```
 * Enjoy the termianl showing you every word until the process is done
 
 sample results:
