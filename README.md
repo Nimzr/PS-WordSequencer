@@ -24,7 +24,6 @@ Bonus you get to see the whole file fly by in the terminal 1 word at a time.
 * You will be asked for a the file path:
 
 <code>Get-WordSequence  
-
 Enter Path to File for import: </code>
 * You can use one of the example files provided in samples:  
   
